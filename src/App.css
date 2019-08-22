@@ -6,7 +6,7 @@ body {
 
 .mainCard {
   margin: 10px;
-  width: 40%;
+  width: 350px;
   display: inline-block;
   background-color: black;
 }
@@ -15,3 +15,19 @@ body {
   background-image: url("https://st4.depositphotos.com/1275255/22214/i/1600/depositphotos_222145636-stock-photo-magic-card-orange-summer-graphic.jpg");
 }
 
+.cardImage {
+  /* Got the value using chrome inspector */
+  height: 230px; 
+}
+
+.imgFooter {
+  background-color: #E8290B;
+}
+
+.cardBody {
+  background-color: #777E8B;
+}
+
+.cardFooter {
+  background-color: #E8290B;
+}

@@ -46,6 +46,7 @@ class Card extends Component {
                         </div>
                     </div>
 
+                    {/* Card Footer */}
                     <div className="card cardFooter">
                         <div className="card-body">
                             <div className="container">
